@@ -1,6 +1,3 @@
----
-
-```markdown
 # 🎬 EggPlayer (에그플레이어)
 
 > **불필요한 기능과 광고를 싹 뺀, 가볍고 빠른 초경량 Win32 네이티브 비디오 플레이어**
@@ -58,4 +55,3 @@ EggPlayer는 설치(인스톨러) 과정 없이, 다운로드 후 즉시 실행�
 
 - **동영상**: MP4, MKV, AVI, WMV, MOV, FLV, WEBM, TS 등
 - **자막**: SMI, SRT, ASS, SSA, VTT 등
-```
